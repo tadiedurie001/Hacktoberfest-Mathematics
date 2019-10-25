@@ -5,6 +5,8 @@ Math is fun so let's make some scripts and or programs that use some of your fav
 
 ![Hacktoberfest](https://github.com/BaReinhard/Hacktoberfest-Mathematics/blob/webpage-build/src/Screenshot%202017-10-04%2009.35.48.png?raw=true)
 
+![Tadiwa Duri](https://github.com/tadiedurie001/Hacktoberfest-Mathematics/blob/webpage-build/src/Screenshot%202017-10-04%2009.35.48.png?raw=true)
+
 # Contributors
 ## Hacktoberfest-Mathematics
 ### Mathematics Folder/File Structure
